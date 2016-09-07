@@ -1,6 +1,8 @@
 # Something about Battle-City
 This is a simple version of Battle City. The player, controlling a tank, can destroy enemy tanks.
+
 In my version, I tried to implement most of functions in the classic Battle City.
+
 The tank of player has a blood bar to show its life. Everytime it is attacked, the blood will decrease 20%.
 The actions of enemy tanks are totally random, including their direction, stay or move, shooting or not. They cannot destroy each other.
 The tanks cannot get through each other and can only move in this area.
